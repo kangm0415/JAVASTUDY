@@ -1,4 +1,4 @@
-package CHAPTER5;
+package CHAPTER;
 public class IEBasic {
 
 	public static void main(String[] args) {
