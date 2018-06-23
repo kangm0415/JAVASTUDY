@@ -1,4 +1,4 @@
-
+package CHAPTER5;
 public class IEBasic {
 
 	public static void main(String[] args) {
@@ -16,7 +16,7 @@ public class IEBasic {
 		else {
 			System.out.println("n1==n2 is false, muther fucker");
 			
-		}//zzzz
+		}
 
 	}
 
