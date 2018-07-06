@@ -16,6 +16,7 @@ public class BnkAcoountPO {
 		return balance;
 	}
 	
+	
 	public static int withdraw(int amount) {
 		balance -= amount;
 		System.out.println("√‚±› : " + amount);
