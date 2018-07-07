@@ -8,6 +8,7 @@ public class FirstStringIntro {
 		
 		printString(str1);
 		printString(str2);
+		printString(str2);
 	}
 
 		public static void printString(String str) {
